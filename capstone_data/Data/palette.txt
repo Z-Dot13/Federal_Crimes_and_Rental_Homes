@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/eca400-eaf8bf-006992-27476e-001d4a */
+
+/* CSV */
+eca400,eaf8bf,006992,27476e,001d4a
+
+/* With # */
+#eca400, #eaf8bf, #006992, #27476e, #001d4a
+
+/* Array */
+["eca400","eaf8bf","006992","27476e","001d4a"]
+
+/* Object */
+{"Marigold":"eca400","Pale Spring Bud":"eaf8bf","Blue Sapphire":"006992","Indigo Dye":"27476e","Oxford Blue":"001d4a"}
+
+/* Extended Array */
+[{"name":"Marigold","hex":"eca400","rgb":[236,164,0],"cmyk":[0,31,100,7],"hsb":[42,100,93],"hsl":[42,100,46],"lab":[72,16,76]},{"name":"Pale Spring Bud","hex":"eaf8bf","rgb":[234,248,191],"cmyk":[6,0,23,3],"hsb":[75,23,97],"hsl":[75,80,86],"lab":[95,-14,26]},{"name":"Blue Sapphire","hex":"006992","rgb":[0,105,146],"cmyk":[100,28,0,43],"hsb":[197,100,57],"hsl":[197,100,29],"lab":[41,-10,-30]},{"name":"Indigo Dye","hex":"27476e","rgb":[39,71,110],"cmyk":[65,35,0,57],"hsb":[213,65,43],"hsl":[213,48,29],"lab":[30,2,-26]},{"name":"Oxford Blue","hex":"001d4a","rgb":[0,29,74],"cmyk":[100,61,0,71],"hsb":[216,100,29],"hsl":[216,100,15],"lab":[12,10,-31]}]
+
+/* XML */
+<palette>
+  <color name="Marigold" hex="eca400" r="236" g="164" b="0" />
+  <color name="Pale Spring Bud" hex="eaf8bf" r="234" g="248" b="191" />
+  <color name="Blue Sapphire" hex="006992" r="0" g="105" b="146" />
+  <color name="Indigo Dye" hex="27476e" r="39" g="71" b="110" />
+  <color name="Oxford Blue" hex="001d4a" r="0" g="29" b="74" />
+</palette>
